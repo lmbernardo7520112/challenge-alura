@@ -69,21 +69,21 @@ Bem-vindo ao projeto Conversor de Moedas! Este aplicativo Java permite que você
 
    - Esta classe representa uma moeda com um código e um nome.
    - Atributos:
-     - `código`: O código da moeda.
-     - `nome`: O nome da moeda.
+     - `code`: O código da moeda.
+     - `name`: O nome da moeda.
    - Métodos:
-     - `getCodigo()`: Retorna o código da moeda.
-     - `getNome()`: Retorna o nome da moeda.
+     - `ggetCode()`: Retorna o código da moeda.
+     - `getName()`: Retorna o nome da moeda.
 
 2. **RespostaTaxasCambio**
 
    - Esta classe representa um objeto de resposta contendo taxas de câmbio.
    - Atributos:
-     - `moedaBase`: A moeda base para as taxas de câmbio.
-     - `taxas`: Um mapa contendo códigos de moeda como chaves e taxas de câmbio como valores.
+     - `baseCurrency`: A moeda base para as taxas de câmbio.
+     - `rates`: Um mapa contendo códigos de moeda como chaves e taxas de câmbio como valores.
    - Métodos:
-     - `getMoedaBase()`: Retorna a moeda base.
-     - `getTaxas()`: Retorna o mapa de códigos de moeda e taxas de câmbio.
+     - `getBaseCurrency()`: Retorna a moeda base.
+     - `getRates()`: Retorna o mapa de códigos de moeda e taxas de câmbio.
 
 #### Funcionalidade ⚙️
 
