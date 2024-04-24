@@ -65,7 +65,7 @@ Bem-vindo ao projeto Conversor de Moedas! Este aplicativo Java permite que você
 
 #### Classes 📚
 
-1. **Moeda**
+1. **Currency**
 
    - Esta classe representa uma moeda com um código e um nome.
    - Atributos:
@@ -75,7 +75,7 @@ Bem-vindo ao projeto Conversor de Moedas! Este aplicativo Java permite que você
      - `getCode()`: Retorna o código da moeda.
      - `getName()`: Retorna o nome da moeda.
 
-2. **RespostaTaxasCambio**
+2. **ExchangeRatesResponse**
 
    - Esta classe representa um objeto de resposta contendo taxas de câmbio.
    - Atributos:
