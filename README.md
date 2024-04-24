@@ -72,7 +72,7 @@ Bem-vindo ao projeto Conversor de Moedas! Este aplicativo Java permite que você
      - `code`: O código da moeda.
      - `name`: O nome da moeda.
    - Métodos:
-     - `ggetCode()`: Retorna o código da moeda.
+     - `getCode()`: Retorna o código da moeda.
      - `getName()`: Retorna o nome da moeda.
 
 2. **RespostaTaxasCambio**
